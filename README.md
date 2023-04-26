@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishad6767
+- 👋 Hi, I’m Nishad
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Mern stack
 - 📫 How to reach me +919746383087
